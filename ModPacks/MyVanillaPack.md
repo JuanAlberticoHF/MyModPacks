@@ -178,7 +178,7 @@ Este listado de mods esta dividido en tres secciones notables:
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
 > 		- Opcional:<br>
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
-> - ### [M.R.U](https://modrinth.com/mod/placeholder-api)
+> - ### [M.R.U](https://modrinth.com/mod/mru)
 > 	- Requires:<br>
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
 
