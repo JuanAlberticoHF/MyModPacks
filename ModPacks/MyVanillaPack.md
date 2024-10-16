@@ -13,9 +13,9 @@ Este listado de mods esta dividido en tres secciones notables:
 
 # A
 > - ### [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
-> 	 - Requires:
+> 	 - Requires:<br>
 > 	   [Iceberg](https://modrinth.com/mod/iceberg)
-> 		- Opcional:
+> 		- Opcional:<br>
 > 		[Prism](https://modrinth.com/mod/prism-lib)
 > - ### [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 > - ### [AppleSkin](https://modrinth.com/mod/appleskin)
