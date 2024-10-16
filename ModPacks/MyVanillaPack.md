@@ -6,259 +6,259 @@ VERSION MODPACK: 1.21
 
 # A
 > - ### [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
-> 	 - Requires:
+> 	- Requires:  
 > 	   [Iceberg](https://modrinth.com/mod/iceberg)
-> 		- Opcional:
+> 	- Opcional:  
 > 		[Prism](https://modrinth.com/mod/prism-lib)
 > - ### [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 > - ### [AppleSkin](https://modrinth.com/mod/appleskin)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Axiom](https://modrinth.com/mod/axiom)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 
 # B
 > - ### [Balm](https://modrinth.com/mod/balm)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Better Advancements](https://modrinth.com/mod/better-advancements)
 > - ### [Better Statistics Screen](https://modrinth.com/mod/better-stats)
-> 	- Requires:
-> 	[Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	[Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	[TCDCommons API](https://modrinth.com/mod/tcdcommons)
-> 	  - Optional:
-> 	  [Mod Menu](https://modrinth.com/mod/modmenu)
+> 	  - Optional:  
+> 	  [Mod Menu](https://modrinth.com/mod/modmenu)  
 > 	  [Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
 > - ### [Better Third Person](https://modrinth.com/mod/better-third-person)
 > - ### [Block meter](https://modrinth.com/mod/blockmeter)
-> 	- Requires:
+> 	- Requires:  
 > 	  [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [Blur+](https://modrinth.com/mod/blur-plus)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 
 # C
 > - ### [Carry On](https://modrinth.com/mod/carry-on)
 > - ### [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Chunky](https://modrinth.com/plugin/chunky)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [CICADA](https://modrinth.com/mod/cicada)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Cloth Config API](https://modrinth.com/mod/cloth-config)
 > - ### [Clumps](https://modrinth.com/mod/clumps)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Continuity](https://modrinth.com/mod/continuity)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Controlling](https://modrinth.com/mod/controlling)
-> 	- Requires:
-> 	[Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	[Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	[Searchables](https://modrinth.com/mod/searchables)
 > - ### [CraftPresence](https://modrinth.com/mod/craftpresence)
-> 	- Requires:
+> 	- Requires:  
 > 	[UniLib](https://modrinth.com/mod/unilib)
 
 # D
 > - ### [Debugify](https://modrinth.com/mod/debugify)
-> 	- Requires:
-> 	   [Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	   [Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	   [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 > 		- Opcional:
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
 > - ### [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 > - ### [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
-> 	- Requires:
-> 	   [CICADA](https://modrinth.com/mod/cicada)
+> 	- Requires:  
+> 	   [CICADA](https://modrinth.com/mod/cicada)  
 > 	   [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		   - Embedded:
+> 		   - Embedded:  
 > 		 [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api)
 > - ### [Durability Plus](https://modrinth.com/mod/durability-plus)
 > - ### [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-> 	- Requires:
+> 	- Requires:  
 > 	   [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
-> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)
+> 		- Opcional:  
+> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 # E
 
 > - ### [Easy Magic](https://modrinth.com/mod/easy-magic)
-> 	- Requires:
-> 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 	 [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+> 	- Requires:  
+> 	 [Fabric API](https://modrinth.com/mod/fabric-api)  
+> 	 [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)  
 > 	 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Forge Config Screens](https://modrinth.com/mod/forge-config-screens)
 > - ### [Eating Animation](https://modrinth.com/mod/eating-animation)
 > - ### [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Sodium](https://modrinth.com/mod/sodium) 
 > - ### [Entity Culling](https://modrinth.com/mod/entityculling)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 
 # F
 > - ### [Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 > - ### [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-> 	- Requires:
+> 	- Requires:  
 > 	   [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Forge Config Screens](https://modrinth.com/mod/forge-config-screens)
 > - ### [Freecam (Modrinth Edition)](https://modrinth.com/mod/freecam)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
-> 		  - Embedded:
+> 		  - Embedded:  
 > 		  [Cloth Config API](https://modrinth.com/mod/cloth-config)
 
 # I
 > - ### [Iceberg](https://modrinth.com/mod/iceberg)
 > - ### [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
-> 	- Requires:
-> 	[Cloth Config API](https://modrinth.com/mod/cloth-config)
+> 	- Requires:  
+> 	[Cloth Config API](https://modrinth.com/mod/cloth-config)  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [Indium](https://modrinth.com/mod/indium)
-> 	- Requires:
+> 	- Requires:  
 > 	[Sodium](https://modrinth.com/mod/sodium)
 > - ### [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 > - ### [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
-> 	- Requires:
-> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-> 	 [Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)  
+> 	 [Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	 [LibIPN](https://modrinth.com/mod/libipn)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [InvMove](https://modrinth.com/mod/invmove)
-> 	- Requires:
+> 	- Requires:  
 > 	[Cloth Config API](https://modrinth.com/mod/cloth-config)
 > - ### [Iris](https://modrinth.com/mod/iris)
-> 	- Requires:
+> 	- Requires:  
 > 	[Sodium](https://modrinth.com/mod/sodium)
 
 # J
 > - ### [Jade](https://modrinth.com/mod/jade/version/15.1.5+fabric)
-> 	- Opcional:
+> 	- Opcional:  
 > 	[Just Enough Items](https://modrinth.com/mod/jei)
 
 # M
 > - ### [ModernFix](https://modrinth.com/mod/modernfix)
 > - ### [Mod Menu](https://modrinth.com/mod/modmenu)
-> 	- Requires:
-> 	[Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	[Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	[Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 > - ### [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [M.R.U](https://modrinth.com/mod/placeholder-api)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
 
 # N
 > - ### [NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
-> 	- Requires:
-> 	[Balm](https://modrinth.com/mod/balm)
+> 	- Requires:  
+> 	[Balm](https://modrinth.com/mod/balm)  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Noisium](https://modrinth.com/mod/noisium)
 > - ### [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
 
 # L
 > - ### [LibIPN](https://modrinth.com/mod/libipn)
-> 	- Requires:
-> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+> 	- Requires:  
+> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
 
 # P
 > - ### [Physics Mod](https://modrinth.com/mod/physicsmod/version/m87gEvpX)
 > - ### [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)
-> 	- Requires:
-> 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 	 [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+> 	- Requires:  
+> 	 [Fabric API](https://modrinth.com/mod/fabric-api)  
+> 	 [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)  
 > 	 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Forge Config Screens](https://modrinth.com/mod/forge-config-screens)
 > - ### [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 > - ### [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
-> 	- Requires:
-> 	 [Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	 [Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 
 # R
 > - ### [Reacharound](https://modrinth.com/mod/reacharound)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
-> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)
+> 		- Opcional:  
+> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Sodium](https://modrinth.com/mod/sodium) 
-> 		- Opcional:
-> 		[Iris](https://modrinth.com/mod/iris)
+> 		- Opcional:  
+> 		[Iris](https://modrinth.com/mod/iris)  
 > 		[Sodium Extra](https://modrinth.com/mod/sodium-extra)
 > - ### [Resourcify](https://modrinth.com/mod/resourcify)
-> 	- Requires:
-> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+> 	- Requires:  
+> 	 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
+> 		- Opcional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 
 # S
 > - ### [Searchables](https://modrinth.com/mod/searchables)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-> 	- Requires:
-> 	 [Sodium](https://modrinth.com/mod/sodium) 
+> 	- Requires:  
+> 	 [Sodium](https://modrinth.com/mod/sodium)  
 > 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:
-> 		[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+> 		- Opcional:  
+> 		[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  
 > 		[Iris](https://modrinth.com/mod/iris)
 > - ### [Sodium](https://modrinth.com/mod/sodium) 
 > - ### [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-> 	- Opcional:
-> 		[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
-> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)
+> 	- Opcional:  
+> 		[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)  
+> 		[Cloth Config API](https://modrinth.com/mod/cloth-config)  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 > - ### [Sounds](https://modrinth.com/mod/sound)
-> 	- Requires:
-> 	[Fabric API](https://modrinth.com/mod/fabric-api)
+> 	- Requires:  
+> 	[Fabric API](https://modrinth.com/mod/fabric-api)  
 > 	[M.R.U](https://modrinth.com/mod/mru)
 > - ### [Spark](https://modrinth.com/mod/spark)
 > - ### [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
-> 	- Requires:
+> 	- Requires:  
 > 	 [Cloth Config API](https://modrinth.com/mod/cloth-config)
-> 		- Optional:
+> 		- Optional:  
 > 		[Mod Menu](https://modrinth.com/mod/modmenu)
 
 # T
 > - ### [TCDCommons API](https://modrinth.com/mod/tcdcommons)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [Trade Cycling](https://modrinth.com/mod/trade-cycling)
 
@@ -271,15 +271,15 @@ VERSION MODPACK: 1.21
 # W
 > - ### [Weapon Master YDM](https://modrinth.com/mod/weaponmaster)
 > - ### [WI Zoom](https://modrinth.com/mod/wi-zoom)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 > - ### [World Preview](https://modrinth.com/mod/world-preview)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 
 # Y
 > - ### [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-> 	- Requires:
+> 	- Requires:  
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
 
 
