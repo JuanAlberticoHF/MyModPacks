@@ -3,8 +3,14 @@
 | ----------- | ------- | ------- | ------- |
 | FUNCIONA  | ❔      | ✔      | ❔       |
 
-# Listado
-Listado ordenado de la 'A' a la 'Z'
+---
+
+# MyVanillaPack
+Este listado de mods esta dividido en tres secciones notables:
+  - Lista ordenada de `A`-`Z`
+  - [Dependencias](#Dependencias): Mods requeridos por todo el listado sin repeticiones
+  - [Complementos](#Opcionales): Mods opcionales que se complementan con algunos del listado
+
 # A
 > - ### [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 > 	 - Requires:
@@ -285,7 +291,7 @@ Listado ordenado de la 'A' a la 'Z'
 
 
 ---
-### Dependencias Generales
+### Dependencias
 
 > - [Fabric API](https://modrinth.com/mod/fabric-api)
 > - [Iceberg](https://modrinth.com/mod/iceberg)
