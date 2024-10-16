@@ -2,7 +2,7 @@
 ## Contenido
 - [Propósito](#propósito)
 - [Versiones](#versiones)
-- [ModsPack Disponible](#disponibles)
+- [ModPacks](#ModPacks)
 ---
 
 ## Proposito
@@ -14,7 +14,7 @@ Los mods están ordenados por orden alfabético y con sus dependencias especific
 ## Versiones
 **Las versiones varían respecto al mod ya que cada uno lleva un desarrollo diferente**, pero a su vez, el modpack tendrá una versión para la que principalmente fue creada, por lo que a la hora de variar la versiones del modpack puede haber ciertos problemas a la hora de hacerlo funcionar.
 
-## Disponibles
+## ModPacks
 
 - [MyVanillaPack](https://github.com/JuanAlberticoHF/MyModPacks/blob/main/ModPacks/MyVanillaPack.md)  
 ---
