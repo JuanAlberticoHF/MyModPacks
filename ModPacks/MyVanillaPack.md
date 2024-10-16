@@ -12,6 +12,10 @@ Este listado de mods esta dividido en tres secciones notables:
   - [Dependencias](#Dependencias): Mods requeridos por todo el listado sin repeticiones
   - [Complementos](#Opcionales): Mods opcionales que se complementan con algunos del listado
 
+## Propiedades
+  - Total de Mods: `73`
+  - Mod Loader: [Fabric Loader](https://fabricmc.net/)
+
 # A
 > - ### [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 > 	 - Requires:<br>
