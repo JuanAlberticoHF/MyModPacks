@@ -7,7 +7,8 @@
 
 # MyVanillaPack
 Este listado de mods esta dividido en tres secciones notables:
-  - Lista ordenada de `A`-`Z`
+  - Lista ordenada de `A`-`Z`:
+    - [A](#a) > [B](#b) > [C](#c) > [D](#d) > [E](#e) > [F](#f) > [I](#i) > [J](#j) > [M](#m) > [N](#n) > [L](#l) > [P](#p) > [R](#r) > [S](#s) > [T](#t) > [U](#u) > [V](#v) > [W](#w) > [Y](#y)
   - [Dependencias](#Dependencias): Mods requeridos por todo el listado sin repeticiones
   - [Complementos](#Opcionales): Mods opcionales que se complementan con algunos del listado
 
