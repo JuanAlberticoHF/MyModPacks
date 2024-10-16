@@ -14,6 +14,7 @@ Este listado de mods esta dividido en tres secciones notables:
 
 ## Propiedades
   - Total de Mods: `73`
+    - Dependencias: `16`
   - Mod Loader: [Fabric Loader](https://fabricmc.net/)
 
 # A
