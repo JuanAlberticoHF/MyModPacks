@@ -111,11 +111,6 @@ Este listado de mods esta dividido en tres secciones notables:
 > 		- Opcional:<br>
 > 		[Forge Config Screens](https://modrinth.com/mod/forge-config-screens)
 > - ### [Eating Animation](https://modrinth.com/mod/eating-animation)
-> - ### [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-> 	- Requires:<br>
-> 	 [Fabric API](https://modrinth.com/mod/fabric-api)
-> 		- Opcional:<br>
-> 		[Sodium](https://modrinth.com/mod/sodium) 
 > - ### [Entity Culling](https://modrinth.com/mod/entityculling)
 > 	- Requires:<br>
 > 	[Fabric API](https://modrinth.com/mod/fabric-api)
@@ -322,7 +317,6 @@ Este listado de mods esta dividido en tres secciones notables:
 > - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
 > - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 > - [Forge Config Screens](https://modrinth.com/mod/forge-config-screens)
-> - [Sodium](https://modrinth.com/mod/sodium) 
 > - [Iris](https://modrinth.com/mod/iris)
 > - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 > - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
