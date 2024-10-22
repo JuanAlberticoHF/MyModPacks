@@ -13,7 +13,7 @@ Este listado de mods esta dividido en tres secciones notables:
   - [Complementos](#Opcionales): Mods opcionales que se complementan con algunos del listado
 
 ## Propiedades
-  - Total de Mods: `73`
+  - Total de Mods: `72`
     - Dependencias: `16`
   - Mod Loader: [Fabric Loader](https://fabricmc.net/)
 
